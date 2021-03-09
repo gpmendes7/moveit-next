@@ -117,7 +117,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <b>Gabriel Mendes - Desenvolvedor de Sistemas</b>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@gpmendes7-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gpmendes7)](https://twitter.com/gpmendes7https://twitter.com/gpmendes7) 
+[![Twitter Badge](https://img.shields.io/badge/-@gpmendes7-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gpmendes7)](https://twitter.com/gpmendes7) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gpmendes7/)](https://linkedin.com/in/gpmendes7/) 
 [![Gmail Badge](https://img.shields.io/badge/-andrewsseven@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewsseven@gmail.com)](mailto:andrewsseven@gmail.com)
 
