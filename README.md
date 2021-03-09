@@ -49,9 +49,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## ⚙️ Funcionalidades
 
-- [x] Usuário inicia um ciclo
-  - [x] cada ciclo tem 25 minutos
-  - [x] ciclo pode ser cancelado 
+- [x] Usuário inicia um ciclo:
+  - [x] ciclo tem 25 minutos
+  - [x] ciclo pode ser abondonado e cronômetro é resetado 
 
 - [x] Quando o ciclo é finalizado usuário pode:
   - [x] completar desafio proposto ganhando pontos para ir subindo de nível 
@@ -62,7 +62,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/moveitscreens.png" width="600px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/moveitscreens.png" width="800px">
 </p>
 
 ---
@@ -115,10 +115,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/gpmendes7" width="100px;" alt=""/>
  <br />
- <sub><b>Gabriel Mendes</b></sub> 
+<b>Gabriel Mendes - Desenvolvedor de Sistemas</b>
  <br />
-
- 
 
 [![Twitter Badge](https://img.shields.io/badge/-@gpmendes7-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gpmendes7)](https://twitter.com/gpmendes7https://twitter.com/gpmendes7) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gpmendes7/)](https://linkedin.com/in/gpmendes7/) 
