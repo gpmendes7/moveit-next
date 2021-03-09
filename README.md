@@ -35,8 +35,12 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
-
+:running: Moveit - é uma aplicação para ajudar pessoas a se concentrarem em atividades que são cronometradas. 
+Após a conclusão de uma atividade, é proposto que se faça um exercício físico aleatório e, sendo ele finalizado,
+o usuário ganha pontos que são acumulativos e usados para elevar o seu nível.
+O nível do usuário indica o quão avançado ele está em termos de atividades e exercícios concluídos ao longo do
+uso constante da aplicação.
+O sistema de pontuação é uma forma de manter o foco na atividade e de estimular a concentração dos usuários. 
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
