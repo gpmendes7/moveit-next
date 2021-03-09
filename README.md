@@ -36,8 +36,8 @@
 ## 💻 Sobre o projeto
 
 :running: Moveit - é uma aplicação para ajudar pessoas a se concentrarem em atividades que são cronometradas. 
-Após a conclusão de uma atividade, é proposto que se faça um exercício físico aleatório e, sendo ele finalizado,
-o usuário ganha pontos que são acumulativos e usados para elevar o seu nível.
+Após a conclusão de uma atividade, é proposto que se faça um desafio que será um exercício físico aleatório.
+Sendo este finalizado, o usuário ganha pontos que são acumulativos e usados para elevar o seu nível.
 O nível do usuário indica o quão avançado ele está em termos de atividades e exercícios concluídos ao longo do
 uso constante da aplicação.
 O sistema de pontuação é uma forma de manter o foco na atividade e de estimular a concentração dos usuários. 
@@ -49,30 +49,20 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+- [x] Usuário inicia um ciclo
+  - [x] cada ciclo tem 25 minutos
+  - [x] ciclo pode ser cancelado 
 
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
+- [x] Quando o ciclo é finalizado usuário pode:
+  - [x] completar desafio proposto ganhando pontos para ir subindo de nível 
+  - [x] recursar desafio mas, sem ganhar nenhum ponto de experiência para subir de nível
 
 ---
 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/movevitscreens.png" width="600px">
 </p>
 
 ---
@@ -113,7 +103,7 @@ $ yarn dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/) +  [Nextjs](https://nextjs.org/) +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([React](https://reactjs.org/) +  [Next.js](https://nextjs.org/) +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)**
 
@@ -131,9 +121,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 
 [![Twitter Badge](https://img.shields.io/badge/-@gpmendes7-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gpmendes7)](https://twitter.com/gpmendes7https://twitter.com/gpmendes7) 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gpmendes7/)](https://linkedin.com/in/gpmendes7/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-andrewsseven@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewsseven@gmail.com)](mailto:andrewsseven@gmail.com)
 
 ---
@@ -142,6 +130,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Gabriel Mendes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Gabriel Mendes 👋🏽 [Entre em contato!](https://linkedin.com/in/gpmendes7/)
 
 ---
