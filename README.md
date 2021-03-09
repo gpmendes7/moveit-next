@@ -27,7 +27,6 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -53,7 +52,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   - [x] ciclo tem 25 minutos
   - [x] ciclo pode ser abondonado e cronômetro é resetado 
 
-- [x] Quando o ciclo é finalizado usuário pode:
+- [x] Quando o ciclo é finalizado usuário é notificado e pode:
   - [x] completar desafio proposto ganhando pontos para ir subindo de nível 
   - [x] recursar desafio mas, sem ganhar nenhum ponto de experiência para subir de nível
 
