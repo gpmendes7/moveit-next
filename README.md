@@ -14,11 +14,11 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/logo-full.svg" />
 </h1>
 
 <h4 align="center"> 
-	:running:  Moveit ♻️ Concluído 🚀 :running:
+	:running:  Moveit :clock9: Concluído :100: :running:
 </h4>
 
 <p align="center">
@@ -42,7 +42,7 @@ O nível do usuário indica o quão avançado ele está em termos de atividades 
 uso constante da aplicação.
 O sistema de pontuação é uma forma de manter o foco na atividade e de estimular a concentração dos usuários. 
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+Projeto desenvolvido durante a **NLW - Next Level Week** 4 oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
