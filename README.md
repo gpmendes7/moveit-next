@@ -102,6 +102,8 @@ $ cd moveit-next
 
 # Instale as dependências
 $ yarn add typescript @types/react @types/react-dom @types/node -D
+$ add js-cookie
+$ yarn add @types/js-cookie -D
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
@@ -118,7 +120,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[React Dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
 -   **[Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)**
 
 > Veja o arquivo  [package.json](https://github.com/gpmendes7/moveit-next/blob/main/package.json)
